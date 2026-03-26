@@ -55,7 +55,8 @@ https://phishing-backend-73bb.onrender.com
 4. Enable **Developer Mode**
 5. Click **Load unpacked**
 6. Select extracted folder
-
+<img width="1011" height="522" alt="Screenshot 2026-03-26 235939" src="https://github.com/user-attachments/assets/4edadf10-483a-4766-8964-5b78c65385f6" />
+ 
 ---
 
 ## 📸 Screenshots
